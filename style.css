@@ -1,0 +1,64 @@
+h1{
+  font-family: 'Mansalva', cursive;
+  text-align: center;
+  /*border: 1px solid black;*/
+  margin: 0px;
+  padding: 0px;
+  font-size: 5rem;
+}
+
+#first{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 0px;
+  padding-bottom: 10px;
+  /*border: 1px solid black;*/
+}
+
+header{
+  display: block;
+  /*position: fixed;*/
+  background-color: #A7C9B8;
+  width: 100vw;
+}
+
+body{
+  font-family: 'Mansalva', cursive;
+  background-color: #F4F1DE;
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+#userinputkeys{
+  text-align: center;
+  /*border: 1px solid black;*/
+  margin: 10px 0px;
+  padding: 10px;
+  width: 100%;
+}
+
+#userinput{
+  width: 40vw;
+  height:20px;
+}
+
+#enter{
+  width: 20vw;
+  height:25px;
+  border-radius: 7%;
+}
+
+#enter:hover {
+  background-color: #A7C9B8;
+  color: white;
+}
+
+
+.done {
+  text-decoration: line-through;
+}
+
+.delete {
+  display: inline;
+}
